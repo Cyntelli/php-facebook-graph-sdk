@@ -1,5 +1,5 @@
 {
-    "name": "cyntelli/graph-sdk",
+    "name": "cyntelli/php-facebook-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"," cyntelli"],
     "type": "library",
